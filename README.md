@@ -1,10 +1,3 @@
-# Challenge PLUSOFT
+## Grupo Sharks - Chuveiro Inteligente
 
-**Integrantes:** 
-
-* Felipe Enzo Baptistella
-* Igor Ferreira Calbo
-* Luiz Felipe Andrade de Godoi
-* Natam Alves da Mata
-* Pedro utida Gomes da Silva
-* Rodrigo de Andrade e Silva
+Código feito em Java simulando cadastro por input do usuário, login e menu do chuveiro como em mostrado no app, baseado nas telas propostas.
